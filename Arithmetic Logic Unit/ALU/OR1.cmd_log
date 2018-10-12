@@ -1,0 +1,3 @@
+vhdtdtfi -prj ALU -o "C:/Users/utp/Desktop/Proyecto Alu/ALU/OR1.vhi" -module OR1 -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work OR1.vhd 
+vhdtdtfi -prj ALU -o "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/OR1.vhi" -module OR1 -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work OR1.vhd 
+xst -intstyle ise -ifn "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/OR1.xst" -ofn "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/OR1.syr" 

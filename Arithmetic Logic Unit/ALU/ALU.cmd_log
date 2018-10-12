@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Proyecto Alu/ALU/ALU.xst" -ofn "C:/Users/utp/Desktop/Proyecto Alu/ALU/ALU.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "ALU.ngc" ALU.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ALU_map.ncd ALU.ngd ALU.pcf 
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ALU_map.ncd ALU.ngd ALU.pcf 
+xst -intstyle ise -ifn "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU.xst" -ofn "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU.syr" 

@@ -1,0 +1,2 @@
+vhdtdtfi -prj ALU -o "C:/Users/utp/Desktop/Proyecto Alu/ALU/Sumador8bits.vhi" -module Sumador8bits -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SumadorMedio.vhd -lib work SumadorCompleto.vhd -lib work Sumador8bits.vhd 
+vhdtdtfi -prj ALU -o "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Sumador8bits.vhi" -module Sumador8bits -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SumadorMedio.vhd -lib work SumadorCompleto.vhd -lib work Sumador8bits.vhd 

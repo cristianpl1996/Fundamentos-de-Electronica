@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/utp/Desktop/Proyecto Alu/ALU/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/utp/Desktop/Proyecto Alu/ALU/xst"
+elaborate
+-ifn Multiplexor2a1_8bits.prj
+-ifmt mixed

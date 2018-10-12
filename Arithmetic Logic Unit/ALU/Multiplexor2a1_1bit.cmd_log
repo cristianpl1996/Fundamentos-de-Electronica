@@ -1,0 +1,3 @@
+vhdtdtfi -prj ALU -o "C:/Users/utp/Desktop/Proyecto Alu/ALU/Multiplexor2a1_1bit.vhi" -module Multiplexor2a1_1bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Multiplexor2a1_1bit.vhd 
+vhdtdtfi -prj ALU -o "C:/Users/utp/Desktop/Proyecto Alu/ALU/Multiplexor2a1_1bit.vhi" -module Multiplexor2a1_1bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Multiplexor2a1_1bit.vhd 
+vhdtdtfi -prj ALU -o "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Multiplexor2a1_1bit.vhi" -module Multiplexor2a1_1bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Multiplexor2a1_1bit.vhd 

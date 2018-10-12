@@ -1,0 +1,2 @@
+vhdtdtfi -prj ALU -o "C:/Users/utp/Desktop/Proyecto Alu/ALU/Comparador1bit.vhi" -module Comparador1bit -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Comparador1bit.vhd 
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Proyecto Alu/ALU/Comparador1bit.xst" -ofn "C:/Users/utp/Desktop/Proyecto Alu/ALU/Comparador1bit.syr" 

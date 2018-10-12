@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/Proyecto Alu/ALU/SSL.xst" -ofn "C:/Users/utp/Desktop/Proyecto Alu/ALU/SSL.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "SSL.ngc" SSL.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o SSL_map.ncd SSL.ngd SSL.pcf 
+par -w -intstyle ise -ol high -t 1 SSL_map.ncd SSL.ncd SSL.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml SSL.twx SSL.ncd -o SSL.twr SSL.pcf 
+vhdtdtfi -prj ALU -o "C:/Users/utp/Desktop/Proyecto Alu/ALU/SSL.vhi" -module SSL -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SSL.vhd 
+vhdtdtfi -prj ALU -o "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SSL.vhi" -module SSL -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SSL.vhd 
+vhdtdtfi -prj ALU -o "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SSL.vhi" -module SSL -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SSL.vhd 

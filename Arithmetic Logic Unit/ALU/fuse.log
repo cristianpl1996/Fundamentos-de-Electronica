@@ -1,0 +1,48 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU_TB_isim_beh.exe -prj C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU_TB_beh.prj work.ALU_TB 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SumadorMedio.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SumadorCompleto.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Sumador8bits.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Multiplexor2a1_1bit.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Multiplexor2a1_8bits.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Comparador1bit.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Ca2.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Ca2.vhd" Line 51: Actual for formal port a is neither a static name nor a globally static expression
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SSR.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SSL.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Restador8bits.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/OR1.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Comparador8bits.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/AND1.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity OR1 [or1_default]
+Compiling architecture behavioral of entity AND1 [and1_default]
+Compiling architecture behavioral of entity Comparador1bit [comparador1bit_default]
+Compiling architecture behavioral of entity Multiplexor2a1_1bit [multiplexor2a1_1bit_default]
+Compiling architecture behavioral of entity Multiplexor2a1_8bits [multiplexor2a1_8bits_default]
+Compiling architecture behavioral of entity Comparador8bits [comparador8bits_default]
+Compiling architecture behavioral of entity SSL [ssl_default]
+Compiling architecture behavioral of entity SSR [ssr_default]
+Compiling architecture behavioral of entity Sumador_Medio [sumador_medio_default]
+Compiling architecture behavioral of entity Sumador_Completo [sumador_completo_default]
+Compiling architecture behavioral of entity Sumador8bits [sumador8bits_default]
+Compiling architecture behavioral of entity Ca2 [ca2_default]
+Compiling architecture behavioral of entity Restador8bits [restador8bits_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavior of entity alu_tb
+Time Resolution for simulation is 1ps.
+Waiting for 15 sub-compilation(s) to finish...
+Compiled 33 VHDL Units
+Built simulation executable C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU_TB_isim_beh.exe
+Fuse Memory Usage: 33200 KB
+Fuse CPU Usage: 1138 ms

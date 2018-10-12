@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU.vhd</arg>&quot; line <arg fmt="%d" index="2">150</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Bigger</arg>&apos; of component &apos;<arg fmt="%s" index="4">Comparador8bits</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU.vhd</arg>&quot; line <arg fmt="%d" index="2">150</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Equal</arg>&apos; of component &apos;<arg fmt="%s" index="4">Comparador8bits</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Ca2.vhd</arg>&quot; line <arg fmt="%d" index="2">50</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Cout</arg>&apos; of component &apos;<arg fmt="%s" index="4">Sumador8bits</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="1305" delta="new" >Output &lt;<arg fmt="%s" index="1">Bigger</arg>&gt; is never assigned. Tied to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">Inst_Multiplexor2a1_1bit1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ALU</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+</messages>
+

@@ -1,0 +1,3 @@
+vhdl work "SumadorMedio.vhd"
+vhdl work "SumadorCompleto.vhd"
+vhdl work "Sumador8bits.vhd"

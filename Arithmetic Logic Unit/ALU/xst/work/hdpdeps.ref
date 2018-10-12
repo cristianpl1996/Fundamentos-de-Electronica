@@ -1,0 +1,107 @@
+V3 61
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU.vhd" 2017/12/04.23:14:18 P.20131013
+EN work/ALU 1512525547 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/ALU/Behavioral 1512525548 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/ALU.vhd" \
+      EN work/ALU 1512525547 CP OR1 CP AND1 CP Comparador8bits CP SSL CP SSR \
+      CP Sumador8bits CP Restador8bits CP Multiplexor2a1_8bits \
+      CP Multiplexor2a1_1bit
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/AND1.vhd" 2017/12/04.20:18:18 P.20131013
+EN work/AND1 1512525537 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/AND1.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/AND1/Behavioral 1512525538 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/AND1.vhd" \
+      EN work/AND1 1512525537
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Ca2.vhd" 2017/12/04.15:43:55 P.20131013
+EN work/Ca2 1512525529 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Ca2.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Ca2/Behavioral 1512525530 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Ca2.vhd" \
+      EN work/Ca2 1512525529 CP Sumador8bits
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Comparador1bit.vhd" 2017/12/04.15:50:03 P.20131013
+EN work/Comparador1bit 1512525531 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Comparador1bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Comparador1bit/Behavioral 1512525532 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Comparador1bit.vhd" \
+      EN work/Comparador1bit 1512525531
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Comparador8bits.vhd" 2017/12/05.20:14:31 P.20131013
+EN work/Comparador8bits 1512525539 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Comparador8bits.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Comparador8bits/Behavioral 1512525540 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Comparador8bits.vhd" \
+      EN work/Comparador8bits 1512525539 CP Comparador1bit CP Multiplexor2a1_8bits
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Multiplexor2a1_1bit.vhd" 2017/12/04.16:33:19 P.20131013
+EN work/Multiplexor2a1_1bit 1512525527 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Multiplexor2a1_1bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Multiplexor2a1_1bit/Behavioral 1512525528 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Multiplexor2a1_1bit.vhd" \
+      EN work/Multiplexor2a1_1bit 1512525527
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Multiplexor2a1_8bits.vhd" 2017/12/04.16:35:19 P.20131013
+EN work/Multiplexor2a1_8bits 1512525533 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Multiplexor2a1_8bits.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Multiplexor2a1_8bits/Behavioral 1512525534 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Multiplexor2a1_8bits.vhd" \
+      EN work/Multiplexor2a1_8bits 1512525533 CP Multiplexor2a1_1bit
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/OR1.vhd" 2017/12/04.20:17:09 P.20131013
+EN work/OR1 1512525535 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/OR1.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/OR1/Behavioral 1512525536 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/OR1.vhd" \
+      EN work/OR1 1512525535
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Restador8bits.vhd" 2017/12/04.15:48:04 P.20131013
+EN work/Restador8bits 1512525545 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Restador8bits.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Restador8bits/Behavioral 1512525546 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Restador8bits.vhd" \
+      EN work/Restador8bits 1512525545 CP Ca2 CP Sumador8bits
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SSL.vhd" 2017/12/04.20:21:31 P.20131013
+EN work/SSL 1512525541 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SSL.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/SSL/Behavioral 1512525542 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SSL.vhd" \
+      EN work/SSL 1512525541
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SSR.vhd" 2017/12/04.20:21:34 P.20131013
+EN work/SSR 1512525543 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SSR.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/SSR/Behavioral 1512525544 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SSR.vhd" \
+      EN work/SSR 1512525543
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Sumador8bits.vhd" 2017/12/04.15:44:45 P.20131013
+EN work/Sumador8bits 1512525525 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Sumador8bits.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Sumador8bits/Behavioral 1512525526 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/Sumador8bits.vhd" \
+      EN work/Sumador8bits 1512525525 CP Sumador_Medio CP Sumador_Completo
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SumadorCompleto.vhd" 2017/12/04.15:47:08 P.20131013
+EN work/Sumador_Completo 1512525523 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SumadorCompleto.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Sumador_Completo/Behavioral 1512525524 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SumadorCompleto.vhd" \
+      EN work/Sumador_Completo 1512525523
+FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SumadorMedio.vhd" 2017/12/04.15:45:43 P.20131013
+EN work/Sumador_Medio 1512525521 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SumadorMedio.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Sumador_Medio/Behavioral 1512525522 \
+      FL "C:/Users/fran/Desktop/Proyecto Alu/Proyecto Alu/ALU/SumadorMedio.vhd" \
+      EN work/Sumador_Medio 1512525521
+FL "C:/Users/utp/Desktop/Proyecto Alu/ALU/ALU.vhd" 2017/12/04.15:38:13 P.20131013
+FL "C:/Users/utp/Desktop/Proyecto Alu/ALU/Comparador1bit.vhd" 2017/12/04.15:50:03 P.20131013
+FL "C:/Users/utp/Desktop/Proyecto Alu/ALU/Comparador8bits.vhd" 2017/12/04.15:59:06 P.20131013
+FL "C:/Users/utp/Desktop/Proyecto Alu/ALU/Multiplexor2a1_1bit.vhd" 2017/12/04.16:33:19 P.20131013
+FL "C:/Users/utp/Desktop/Proyecto Alu/ALU/Multiplexor2a1_8bits.vhd" 2017/12/04.16:35:19 P.20131013
+FL "C:/Users/utp/Desktop/Proyecto Alu/ALU/SSL.vhd" 2017/12/04.15:42:01 P.20131013
